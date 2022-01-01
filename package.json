@@ -1,0 +1,39 @@
+{
+  "name": "hyper-bot",
+  "version": "0.0.1",
+  "description": "hyper bot altyapısı",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "soulcastle",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "common-tags": "^1.8.0",
+    "croxydb": "0.0.7",
+    "dblapi.js": "^2.4.1",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "funny-words": "^0.1.2",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11",
+    "parse-ms": "^2.1.0",
+    "plantio.db": "^1.3.0",
+    "quick-ms": "^1.2.5",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
